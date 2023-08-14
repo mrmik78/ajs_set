@@ -1,2 +1,4 @@
-# Ajs Set!
-[![Build status](https://ci.appveyor.com/api/projects/status/buihwlfesmd0hwdi?svg=true)](https://ci.appveyor.com/project/mrmik78/ajs-set)
+# Ajs Set
+[![Build status][def]](https://ci.appveyor.com/project/mrmik78/ajs-set)
+
+[def]: https://ci.appveyor.com/api/projects/status/buihwlfesmd0hwdi?svg=true
